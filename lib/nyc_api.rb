@@ -15,4 +15,5 @@ class GetPrograms
 end
 
 programs = GetPrograms.new.get_programs
+
 puts programs
